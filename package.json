@@ -5,6 +5,7 @@
 	},
 	"description": "A project of Ngarison that does something awesome",
 	"keywords": [ "Logiciel", "freecodecamp", "Code" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
